@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 330 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-440,-180)">
+        <g id="Chatbot" transform="matrix(1,0,0,1,-70,160)">
+            <g transform="matrix(0.785714,0,0,0.857143,123.571,30)">
+                <path d="M733.636,280L784.545,303.333L784.545,315L555.455,315L555.455,303.333L606.364,280L733.636,280Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.214286,0,0,0.892857,506.429,-10)">
+                <rect x="576.667" y="280" width="186.667" height="56" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,10,-10)">
+                <path d="M830,40L830,170L820,180L620,180L580,210L580,40L590,30L820,30L830,40ZM800,50L620,50L620,70L800,70L800,50ZM780,130L620,130L620,150L780,150L780,130ZM750,90L620,90L620,110L750,110L750,90Z" style="fill:white;"/>
+            </g>
+            <path d="M790,180L790,240L780,250L520,250L510,240L510,80L520,70L580,70L580,90L530,90L530,230L770,230L770,180L790,180Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

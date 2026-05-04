@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-70,-150)">
+        <g id="Genai" transform="matrix(1,0,0,1,-440,160)">
+            <g transform="matrix(0.785714,0,0,0.857143,123.571,30)">
+                <path d="M733.636,280L784.545,303.333L784.545,315L555.455,315L555.455,303.333L606.364,280L733.636,280Z"/>
+            </g>
+            <g transform="matrix(0.214286,0,0,0.892857,506.429,-10)">
+                <rect x="576.667" y="280" width="186.667" height="56"/>
+            </g>
+            <g transform="matrix(1.125,0,0,1.10526,-12.5,-8.94737)">
+                <path d="M731.111,26.19L731.111,180L580,180L580,-0.952L713.333,-0.952L731.111,26.19ZM704.444,26.19L597.778,26.19L597.778,44.286L704.444,44.286L704.444,26.19ZM713.333,98.571L597.778,98.571L597.778,116.667L713.333,116.667L713.333,98.571ZM695.556,134.762L597.778,134.762L597.778,152.857L695.556,152.857L695.556,134.762ZM695.556,62.381L597.778,62.381L597.778,80.476L695.556,80.476L695.556,62.381Z"/>
+            </g>
+            <path d="M790,210L790,240L780,250L520,250L510,240L510,80L520,70L620,70L620,90L530,90L530,230L770,230L770,210L790,210Z"/>
+        </g>
+    </g>
+</svg>
